@@ -1,4 +1,4 @@
-# Become an AI Researcher
+# Become an AI Master
 
 This repository provides a structured, hands-on path to becoming an AI researcher. It includes Jupyter notebooks covering the mathematical foundations, PyTorch fundamentals, and building neural networks from first principles.
 
