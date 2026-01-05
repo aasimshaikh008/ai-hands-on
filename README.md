@@ -137,6 +137,8 @@ Recommended workflow:
 | LLM Course (GitHub)                   | Structured learning    | [https://github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)                                                                                       |
 | LLM Course (Hugging Face)             | Practical LLMs         | [https://huggingface.co/learn/llm-course/chapter1/1](https://huggingface.co/learn/llm-course/chapter1/1)                                                               |
 | Awesome LLM Apps                      | Project ideas          | [https://github.com/Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)                                                                   |
+| How RAG Enhances LLMs                 | RAG                    | [https://awesomeneuron.substack.com/p/how-rag-enhances-llms-a-step-by-step](https://awesomeneuron.substack.com/p/how-rag-enhances-llms-a-step-by-step)                                                       |
+| Visual Guide to AI Agents             | AI Agents              | [https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents](https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents)                                        |
 
 ## Contributing
 
